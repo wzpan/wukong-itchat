@@ -1,0 +1,9 @@
+# 后台管理端的地址
+host: 'http://localhost'
+
+# 后台管理端的端口
+port: 5000
+
+# 后台管理端的验证码
+# 需与 config.yml 里的设置相同
+validate: 'f4bde2a342c7c75aa276f78b26cfbd8a'
