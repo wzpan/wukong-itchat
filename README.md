@@ -19,7 +19,7 @@ python3 bot.py
 
 ## 配置
 
-详见 config.yml 。
+详见 config.yml 。尤其注意如果 itchat 和 wukong-robot 并不在同一台服务器上运行，务必修改 `host` 配置。
 
 ## 使用
 
